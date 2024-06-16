@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/eztasterwp/static/css/main.e6c13ad2.css",
-    "main.js": "/eztasterwp/static/js/main.190d0bc3.js",
+    "main.js": "/eztasterwp/static/js/main.0ccf969d.js",
     "static/js/453.660c18c5.chunk.js": "/eztasterwp/static/js/453.660c18c5.chunk.js",
     "index.html": "/eztasterwp/index.html",
     "main.e6c13ad2.css.map": "/eztasterwp/static/css/main.e6c13ad2.css.map",
-    "main.190d0bc3.js.map": "/eztasterwp/static/js/main.190d0bc3.js.map",
+    "main.0ccf969d.js.map": "/eztasterwp/static/js/main.0ccf969d.js.map",
     "453.660c18c5.chunk.js.map": "/eztasterwp/static/js/453.660c18c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.190d0bc3.js"
+    "static/js/main.0ccf969d.js"
   ]
 }
